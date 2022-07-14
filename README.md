@@ -1,1 +1,1 @@
-Assignments of graduate school lectures (Machine Learning Fundamentals, Reinforcement Learning).
+**Assignments** of graduate school lectures (*Machine Learning Fundamentals*, *Reinforcement Learning*).
